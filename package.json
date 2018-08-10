@@ -1,0 +1,26 @@
+{
+  "name": "hsdp-config-mngmt",
+  "version": "1.0.0",
+  "description": "Hsdp Configuration Management Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Reuter",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.289.0",
+    "commander": "^2.17.1"
+  },
+  "devDependencies": {
+    "aws-sdk-mock": "^4.1.0",
+    "chai": "^4.1.2",
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.10.0",
+    "mocha": "^5.2.0",
+    "sinon": "^6.1.4"
+  }
+}
