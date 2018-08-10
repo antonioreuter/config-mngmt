@@ -1,0 +1,5 @@
+{
+    "iam_url": "https://us-east1.dev.myapp",
+    "password": "${KMS_PASSWORD}",
+    "username": "myapp-user1"
+}
